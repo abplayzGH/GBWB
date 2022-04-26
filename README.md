@@ -20,3 +20,7 @@ Set Up
 ![Screenshot 2022-04-26 2 07 42 PM](https://user-images.githubusercontent.com/95254250/165374285-ac6c89e1-9125-40de-99ab-472f46d9f901.png)
 
 Finally wait for it to load
+
+Errors
+Not responding: Close app, open ai2, connect the companion
+Other genaral problem can be fixed by going to connect and reseting it.
