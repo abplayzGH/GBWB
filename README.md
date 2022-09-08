@@ -5,6 +5,8 @@ A web browser made to bypass goguardian.
 Made with Mit App Inventer.
 It uses android web view back end.
 
+**Go to releases and download the .aia file**
+
 
 Set Up
 1. Open Google Play, install Mit Ai2 Companion
